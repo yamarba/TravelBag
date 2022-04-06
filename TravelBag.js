@@ -9,15 +9,15 @@ const travelBag = {
     volume: 52,
     color: "bourbon",
     dimensions: {
-        length: 22,
-        height: 22,
-        width: 12
+        length: 30,
+        height: 35,
+        width: 25
     },
     box: {
         name: "gift box",
-        color: "red",
+        color: "purple",
         shape: "square",
-        size: "small",
+        size: "medium",
         content: "watch"
     },
     zipperOpen: false,

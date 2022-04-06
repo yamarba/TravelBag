@@ -17,7 +17,7 @@ const travelBag = {
         name: "gift box",
         color: "purple",
         shape: "square",
-        size: "medium",
+        size: "large",
         content: "watch"
     },
     zipperOpen: false,
